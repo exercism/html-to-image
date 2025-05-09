@@ -192,7 +192,7 @@ function decorate<T extends HTMLElement>(
   options: Options,
 ): T {
   if (isInstanceOfElement(clonedNode, Element)) {
-    cloneCSSStyle(nativeNode, clonedNode, options)
+    // cloneCSSStyle(nativeNode, clonedNode, options)
     clonePseudoElements(nativeNode, clonedNode, options)
     cloneInputValue(nativeNode, clonedNode)
     cloneSelectValue(nativeNode, clonedNode)
