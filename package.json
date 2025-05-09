@@ -1,7 +1,7 @@
 {
-  "name": "html-to-image",
-  "version": "1.11.13",
-  "description": "Generates an image from a DOM node using HTML5 canvas and SVG.",
+  "name": "@exercism/html-to-image",
+  "version": "1.11.15",
+  "description": "Fork of html-to-image which generates an image from a DOM node using HTML5 canvas and SVG.",
   "main": "lib/index.js",
   "module": "es/index.js",
   "unpkg": "dist/html-to-image.js",
@@ -55,12 +55,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/html-to-image.git"
+    "url": "git+https://github.com/exercism/html-to-image.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/html-to-image/issues"
+    "url": "https://github.com/exercism/html-to-image/issues"
   },
-  "homepage": "https://github.com/bubkoo/html-to-image#readme",
+  "homepage": "https://github.com/exercism/html-to-image#readme",
   "devDependencies": {
     "@bubkoo/commitlint-config": "^1.0.2",
     "@bubkoo/eslint-config": "^1.3.1",
