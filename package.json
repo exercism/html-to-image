@@ -1,6 +1,6 @@
 {
   "name": "@exercism/html-to-image",
-  "version": "1.11.15",
+  "version": "1.11.16",
   "description": "Fork of html-to-image which generates an image from a DOM node using HTML5 canvas and SVG.",
   "main": "lib/index.js",
   "module": "es/index.js",
